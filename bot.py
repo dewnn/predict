@@ -2,7 +2,7 @@ import json
 import requests
 import time
 
-TOKEN = "insert_token"
+TOKEN = "7475648629:AAFNJunT5p4FDeN0mgHWLEUCae380sZCPIA"
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 
 
